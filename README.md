@@ -1,5 +1,5 @@
 # Disney_hotstar_clone
-Created with CodeSandbox accessible at [app]( https://shubhamkr3011.github.io/Disney_hotstar_clone/ "Click here to See..")
+Created with CodeSandbox accessible at [Click here to See the Webpage..]( https://shubhamkr3011.github.io/Disney_hotstar_clone/ "Click here to See..")
 ![image](https://user-images.githubusercontent.com/95858496/177711495-2104d44a-5ac5-4109-af2d-ce392cdc0e2a.png)
 
 # here is the video down how it works....
